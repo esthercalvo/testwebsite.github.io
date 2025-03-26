@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for visiting! I am instructor...
+
 
 Esther's Website
 ======
