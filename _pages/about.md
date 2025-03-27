@@ -13,4 +13,4 @@ I am a PhD Candidate at the Department of Political Science, Lund University. I 
 
 News
 ======
-I'll be defending my dissertation, *Old Foe, New Friend?* on April 25th at Eden Hörsal.
+I'll be defending my dissertation, *Old Foe, New Friend?*, on April 25th at Eden Hörsal.
